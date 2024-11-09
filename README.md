@@ -13,6 +13,8 @@
 - Execute the test.py file to run the Emotion Detection.
 
 - Enjoy Deep Learning.
+- 
+- -enjoy ai
 
 ## The detailed tutorial is available in this video. Please do refer for better understanding.
 
